@@ -9,7 +9,7 @@ This is Module 3 of 5 of the [12-week Security Architect Program](https://github
 * #### Add data poisoning detection to training workflows
 
 #### Deliverables:
-* Secure AI Data Pipeline Repo + Training Environment Security Playbook: [Link to walkthrough](https://github.com/epatter1/Secure_AI_Data_Pipelines_and_Training_Environments/blob/main/Secure_AI_Data_Pipelines_and_Training_Environments_walkthrough.md)
+* Secure AI Data Pipeline Repo + Training Environment Security Playbook: [Link to walkthrough](https://github.com/epatter1/Secure_AI_Data_Pipelines_and_Training_Environments/blob/main/Walkthrough.md)
 
 ---
 
